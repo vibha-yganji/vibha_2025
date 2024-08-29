@@ -1,10 +1,9 @@
 title: Vibha Ganji's Home Page 
-description: "Class of 2026"
 owner_name: Vibha Ganji
 github_username: vibha-yganji
 github_repo: "vibha_2025" 
 baseurl: "/vibha_2025"
-future: true
+future: s
 #remote_theme: jekyll/minima
 minima:
   skin: dark
@@ -13,8 +12,8 @@ minima:
     - { platform: x, user_url: "https://x.com/NighthawkCoding/" }
     - { platform: youtube, user_url: "https://www.youtube.com/@nighthawkcodingsociety2868" } 
 # remote_theme: pages-themes/midnight@v0.2.0
-#remote_theme: pages-themes/cayman@v0.2.0
-remote_theme: broccolini/swiss
+remote_theme: pages-themes/cayman@v0.2.0
+#theme: jekyll-swiss
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/minimal@v0.2.0
 # remote_theme: pages-themes/time-machine@v0.2.0
