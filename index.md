@@ -44,7 +44,7 @@ hide: true
         }
     </style>
     <div class="container">
-        <p>Hello! My name is Vibha!. I'm very passionate about biology and neuroscience. This page is dedicated to sharing a bit more about myself and my past projects.</p>
+        <p>Hello! My name is Vibha!. I'm very passionate about biology and neuroscience.</p>
         <canvas id="gameCanvas" width="800" height="200"></canvas>
         <div id="gameOver">Game Over! Your score is <span id="finalScore"></span></div>
     </div>
