@@ -5,12 +5,11 @@ description: Home Page
 hide: true
 ---
 <html lang="en">
-<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Me and Dino Game</title>
     <style>
-        @font-face {
+        @font-face {s
             font-family: 'Product Sans';
             src: url('/Users/vibhaganji/Downloads/product-sans/Product Sans Regular.ttf');
         }
@@ -44,8 +43,6 @@ hide: true
             color: red;
         }
     </style>
-</head>
-<body>
     <div class="container">
         <p>Hello! My name is Vibha!. I'm very passionate about biology and neuroscience. This page is dedicated to sharing a bit more about myself and my past projects.</p>
         <canvas id="gameCanvas" width="800" height="200"></canvas>
@@ -138,5 +135,4 @@ hide: true
         });
         update();
     </script>
-</body>
 </html>
