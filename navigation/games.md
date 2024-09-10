@@ -6,4 +6,5 @@ permalink: /games/
 ---
 - [Cookie Clicker](https://vibha-yganji.github.io/vibha_2025/cookie)
 - [Basic Pictionary](https://vibha-yganji.github.io/vibha_2025/pictionary)
-- [Bubble Popper]()
+- [Maze](https://vibha-yganji.github.io/vibha_2025/maze)
+- [Dinosaur](https://vibha-yganji.github.io/vibha_2025/)
