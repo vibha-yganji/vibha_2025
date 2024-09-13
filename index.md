@@ -216,7 +216,7 @@ hide: true
 <body>
     <!-- Introduction Section -->
     <div class="intro">
-        Hello, my name is Vibha! Click <a href="https://vibha-yganji.github.io/vibha_2025/about/">here</a> and to find out more about me and my interests or scroll through the below gallery to discover Anusha's and my favorite pieces of art.
+        Hello, my name is Vibha! Click <a href="https://vibha-yganji.github.io/vibha_2025/about/">here</a>  to find out more about me and my interests or scroll through the below gallery to discover Anusha's and my favorite pieces of art.
     </div>
     <div class="background-animation"></div>
     <!-- Art Gallery Section -->
