@@ -125,7 +125,8 @@ permalink: /about/
         <button class="accordion">Location & Background</button>
 <div class="panel">
     <p>
-        I was born in Hyderabad, India and moved to San Diego when I was 5 years old.
+        I was born in Hyderabad, India and lived there for 2 years. My parents and sister then moved to Gumi, South Korea while I lived in Kondapaturu, Andhra Pradesh for 3 more years. I finally moved to San Diego when I was 5 years old and then moved to my current house when I was 6.
+        
         I attended Del Sur Elementary, Oak Valley Middle School, and I am currently a student at Del Norte High School.
 
         <div class = "image-container">
